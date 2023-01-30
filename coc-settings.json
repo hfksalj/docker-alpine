@@ -1,0 +1,4 @@
+{
+  "eslint.autoFixOnSave": true,
+  "clangd.path": "/usr/bin/clangd",
+}
